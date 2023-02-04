@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1674670030 source:/media/djoker/data/code/c/sdl_raytrace/main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+
+1674663370 /media/djoker/data/code/c/sdl_raytrace/types.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
+1674282230 source:/media/djoker/data/code/c/sdl_raytrace/color.c
+	"types.h"
+
+1674660624 source:/media/djoker/data/code/c/sdl_raytrace/vector.c
+	"types.h"
+
+1674372310 source:/media/djoker/data/code/c/sdl_raytrace/sphere.c
+	"types.h"
+
+1674373437 source:/media/djoker/data/code/c/sdl_raytrace/plane.c
+	"types.h"
+
+1674310156 source:/media/djoker/data/code/c/sdl_raytrace/list.c
+	"types.h"
+
+1674663468 source:/media/djoker/data/code/c/sdl_raytrace/Scene.c
+	"types.h"
+
+1674670538 source:/media/djoker/data/code/c/sdl_raytrace/Cylinder.c
+	"types.h"
+
